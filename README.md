@@ -11,14 +11,11 @@ A simple interactive quiz built using HTML, CSS, and JavaScript. Users can answe
 - Restart functionality
 
 ## Screenshots
-Home Screen:
-<img src="./screenshots/quiz-start.png" width="350">
-
-Question View:
-<img src="./screenshots/question-view.png" width="350">
-
-Score Screen:
-<img src="./screenshots/score-screen.png" width="350">
+<p align="center">
+   <img src="./screenshots/quiz-start.png" width="300">
+   <img src="./screenshots/question-view.png" width="300">
+   <img src="./screenshots/score-screen.png" width="300">
+</p>
 
 ## How to Run
 
